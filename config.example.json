@@ -1,0 +1,5 @@
+{
+  "root": "/api",
+  "endpoint": "/rank",
+  "model": "cross-encoder/ms-marco-MiniLM-L-6-v2"
+}
